@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Cash Storage "</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Internal_Cache_Btn">Internal Cache</string>
+    <string name="External_Cache_Btn">External Cashe</string>
+    <string name="External_Private_Btn">External Private</string>
+    <string name="External_Public_Btn">External Public</string>
+    <string name="Next_Btn">Next</string>
+    <string name="title_activity_second">Second</string>
+    <string name="Status_Txt">Data Loaded status</string>
+    <string name="permition">WRITE_ENTERNAL_STORAGE</string>
+
+</resources>
